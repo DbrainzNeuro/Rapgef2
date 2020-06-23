@@ -1,0 +1,117 @@
+"Region","Class","Cluster","Rapgef2 Amount","Rapgef2 P-Val"
+"Hippocampus","Neuron","Neuron_CA2CA3_Pvrl3-Rgs15-Calb2 [#6]",2.83321334405622,0
+"Hippocampus","Neuron","Neuron_Subiculum_Slc17a6 [#2]",2.70805020110221,8.39565983686648e-31
+"Posterior Cortex","Neuron","RSG_Tshz2-Shisa8 [#6]",2.63905732961526,2.04576845240115e-107
+"Frontal Cortex","Neuron","Neuron_Claustrum_Nr4a2 [#5]",2.484906649788,4.08400032039014e-11
+"Frontal Cortex","Neuron","Neuron_Layer5_Parm1 [#7]",2.39789527279837,2.38100419074208e-40
+"Posterior Cortex","Endothelial","Endothelial_Flt1 [#12]",2.39789527279837,4.40665977396744e-15
+"Globus Pallidus","Endothelial","Endothelial_Flt1 [#7]",2.39789527279837,6.49042611332577e-114
+"Hippocampus","Neuron","Neuron_Subiculum_Entorhinal_Nxph3 [#3]",2.39789527279837,0.00308944818365243
+"Hippocampus","Neuron","Neuron_Dentate_C1ql2 [#4]",2.39789527279837,8.47632737651385e-16
+"Hippocampus","Neuron","Neuron_CA1_Subiculum_Postsubiculum_Entorhinal_Fibcd1-Dcn-Cbln1-Ptgfr-Fezf2 [#5]",2.39789527279837,0.0554503267529836
+"Striatum","Neuron","Neuron_dSPN_Drd1 [#10]",2.39789527279837,1.02162832412203e-79
+"Thalamus","Endothelial","Endothelial_Flt1 [#4]",2.39789527279837,6.69108864269982e-171
+"Frontal Cortex","Endothelial","Endothelial_Flt1 [#12]",2.30258509299405,1.31248904844705e-05
+"Frontal Cortex","Neuron","Neuron_Layer23_Nptxr [#6]",2.30258509299405,9.45737709453716e-78
+"Entopeduncular","Endothelial","Endothelial_Flt1 [#2]",2.30258509299405,1.06178373845168e-52
+"Globus Pallidus","Neuron","Neuron_Ppp1r1b [#3]",2.30258509299405,1.84491115296139e-160
+"Hippocampus","Endothelial","Endothelial_Flt1 [#15]",2.30258509299405,0.00636340818019083
+"Striatum","Neuron","Neuron_iSPN_Adora2a [#11]",2.30258509299405,0.000250530245064718
+"Striatum","Neuron","Neuron_SPN_BNST_Amygdala_Otof [#13]",2.30258509299405,0.153343908737328
+"Striatum","Endothelial","Endothelial_Flt1 [#7]",2.30258509299405,0.628467310445757
+"Substantia Nigra","Endothelial","Endothelial_Flt1 [#12]",2.30258509299405,1.67267522002675e-110
+"Frontal Cortex","Neuron","Neuron_Layer6Subplate_Syt6 [#3]",2.19722457733622,1.32039332149139e-05
+"Posterior Cortex","Neuron","Neuron_Layer6Subplate_Syt6 [#1]",2.19722457733622,0.194047659376876
+"Posterior Cortex","Neuron","Neuron_Layer23_5_6_Subiculum_Calb1-Rorb-Fermt1-Tshz2-Oprk1-Crym-Sema3e [#2]",2.19722457733622,0.00375637513111867
+"Posterior Cortex","Neuron","Neuron_Layer5_Bcl6 [#3]",2.19722457733622,0.00431631623411374
+"Frontal Cortex","Neuron","Interneuron_CGE_Cplx3-Synpr [#1]",2.07944154167984,0.000279315538527082
+"Frontal Cortex","Neuron","Interneuron_MGE_Sst-Pvalb [#2]",2.07944154167984,2.7334910469715e-05
+"Frontal Cortex","Neuron","Neuron_Layer5b_Fezf2 [#4]",2.07944154167984,0.000779548184255756
+"Posterior Cortex","Neuron","Interneuron_CGE_Cplx3-Synpr [#4]",2.07944154167984,0.0536532635228013
+"Posterior Cortex","Neuron","Interneuron_MGE_Sst-Pvalb [#5]",2.07944154167984,0.146184065984034
+"Posterior Cortex","Neuron","Layer5b_Fezf2 [#7]",2.07944154167984,0.226447188612297
+"Hippocampus","Neuron","Interneuron_Gad2 [#1]",2.07944154167984,2.11724779689152e-44
+"Thalamus","Neuron","Neuron_Gad2-Ahi1 [#3]",2.07944154167984,5.0265353843371e-56
+"Cerebellum","Neuron","Interneurons_and_Other_Nnat [#4]",1.94591014905531,0.10706606257167
+"Frontal Cortex","Microglia_Macrophage","Microglia_Macrophage_C1qb [#11]",1.94591014905531,0.000828026835336854
+"Posterior Cortex","Polydendrocyte","Polydendrocyte_Tnr [#10]",1.94591014905531,0.000152815223778874
+"Entopeduncular","Polydendrocyte","Polydendrocyte_Cacng4 [#6]",1.94591014905531,0.0069983746516588
+"Hippocampus","Polydendrocyte","Polydendrocyte_Tnr [#9]",1.94591014905531,1.20030313550354e-16
+"Striatum","Neuron","Interneuron_Pvalb_Th_Pnoc [#14]",1.94591014905531,8.17709121905317e-07
+"Striatum","Neuron","Interneuron_Sst [#15]",1.94591014905531,7.08037217401116e-07
+"Substantia Nigra","Neuron","Neuron_CA3_C1ql3 [#1]",1.94591014905531,0.0256506522864582
+"Substantia Nigra","Neuron","Neuron_Rora [#2]",1.94591014905531,0.0166059844979101
+"Cerebellum","Endothelial","Endothelial_Flt1 [#10]",1.79175946922805,0.0144725822990474
+"Frontal Cortex","Polydendrocyte","Polydendrocyte_Tnr [#10]",1.79175946922805,6.3607687731623e-20
+"Posterior Cortex","Microglia_Macrophage","Microglia_Macrophage_Tmem119-Mrc1 [#11]",1.79175946922805,0.00075521442563603
+"Posterior Cortex","Mural","Mural_Rgs5Acta2 [#13]",1.79175946922805,8.11937001478724e-05
+"Entopeduncular","Neuron","Neuron_Syt1 [#4]",1.79175946922805,1.25197128995084e-24
+"Globus Pallidus","Neuron","Neuron_Gabra1 [#2]",1.79175946922805,1.57532829508569e-25
+"Globus Pallidus","Mural","Mural_Rgs5Acta2 [#8]",1.79175946922805,0.189023615583846
+"Hippocampus","Neuron","Neuron_CajalRetzius_Lhx1 [#14]",1.79175946922805,1.18968826336102e-05
+"Hippocampus","Mural","Mural_Rgs5Acta2 [#16]",1.79175946922805,2.3515885448863e-14
+"Substantia Nigra","Neuron","Neuron_Gad2 [#3]",1.79175946922805,6.17260809057622e-65
+"Substantia Nigra","Polydendrocyte","Polydendrocyte_Cacng4 [#6]",1.79175946922805,0.251857801049146
+"Substantia Nigra","Microglia_Macrophage","Microglia_Macrophage_C1qb [#9]",1.79175946922805,0.72435692397616
+"Thalamus","Neuron","Neuron_Habenula_Tac2 [#1]",1.79175946922805,0.954356073052745
+"Thalamus","Neuron","Neuron_Rora [#2]",1.79175946922805,7.84767829846096e-35
+"Cerebellum","Neuron","GranularNeuron_Gabra6 [#1]",1.6094379124341,1.73675101298754e-18
+"Cerebellum","Fibroblast-Like","Fibroblast-Like_Dcn [#11]",1.6094379124341,0.270637432891013
+"Cerebellum","Neuron","Interneurons_Pvalb [#3]",1.6094379124341,0.203723812470323
+"Frontal Cortex","Mural","Mural_Rgs5Acta2 [#13]",1.6094379124341,1.50161641052176e-12
+"Frontal Cortex","Fibroblast-Like","Fibroblast-Like_Dcn [#14]",1.6094379124341,1.04647936919361e-06
+"Globus Pallidus","Microglia_Macrophage","Microglia_Macrophage_C1qb [#11]",1.6094379124341,0.350521353975846
+"Globus Pallidus","Polydendrocyte","Polydendrocyte_Tnr [#4]",1.6094379124341,0.00771879891596438
+"Hippocampus","Ependyma","Ependyma [#11]",1.6094379124341,1.54716792094626e-20
+"Hippocampus","Fibroblast-Like","Fibroblast-Like_Dcn [#17]",1.6094379124341,1.43869365412479e-10
+"Striatum","Neuron","Interneuron_Chat [#12]",1.6094379124341,1.79125995385936e-09
+"Striatum","Mural","Mural_Rgs5Acta2 [#8]",1.6094379124341,1.53275060204671e-05
+"Thalamus","Polydendrocyte","Polydendrocyte_Tnr [#12]",1.6094379124341,0.00327500487207077
+"Cerebellum","Microglia_Macrophage","Microglia_Macrophage_C1qb [#5]",1.38629436111989,1
+"Cerebellum","Astrocyte","Astrocyte_Gja1 [#8]",1.38629436111989,0.207546139989629
+"Posterior Cortex","Fibroblast-Like","Fibroblast-Like_Dcn [#14]",1.38629436111989,2.58624032364085e-10
+"Posterior Cortex","Oligodendrocyte","Oligodendrocyte_Tfr [#9]",1.38629436111989,3.35475989642239e-48
+"Entopeduncular","Mural_Fibroblast-Like","Mural_Fibroblast-Like_Rgs5Acta2-Dcn [#3]",1.38629436111989,0.639263644667849
+"Entopeduncular","Polydendrocyte","Polydendrocyte_Tnr [#5]",1.38629436111989,0.929534104140026
+"Entopeduncular","Astrocyte","Astrocyte_Gja1 [#7]",1.38629436111989,0.82380312831445
+"Globus Pallidus","Neuron","Neuron_Chat [#1]",1.38629436111989,0.00282612197238703
+"Globus Pallidus","Ependyma","Ependyma [#6]",1.38629436111989,0.850939588499297
+"Hippocampus","Microglia_Macrophage","Microglia_Macrophage_C1qb [#10]",1.38629436111989,1.20276580325459e-13
+"Hippocampus","Neurogenesis","Neurogenesis_Sox4 [#13]",1.38629436111989,7.41730218135675e-18
+"Striatum","Polydendrocyte","Polydendrocytes_Tnr [#5]",1.38629436111989,1.33730692279079e-11
+"Striatum","Microglia_Macrophage","Microglia_Macrophage_C1qb [#6]",1.38629436111989,2.76480750070967e-08
+"Substantia Nigra","Mural","Mural_Rgs5Acta2 [#13]",1.38629436111989,0.0268152843274057
+"Substantia Nigra","Fibroblast-Like","Fibroblast-Like_Dcn [#14]",1.38629436111989,0.504613607373631
+"Substantia Nigra","Neuron","Neuron_Th [#4]",1.38629436111989,0.92859716777852
+"Substantia Nigra","Polydendrocyte","Polydendrocyte_Tnr [#5]",1.38629436111989,0.0607223888241891
+"Thalamus","Ependyma","Ependyma [#10]",1.38629436111989,0.000123412095684622
+"Thalamus","Microglia_Macrophage","Microglia_Macrophage_C1qb [#7]",1.38629436111989,0.216367396381334
+"Cerebellum","Oligodendrocyte_Polydendrocyte","Oligodendrocyte_Polydendrocyte_Tfr_Tnr [#6]",1.09861228866811,0.000363236043056882
+"Frontal Cortex","Astrocyte","Astrocyte_Gja1 [#8]",1.09861228866811,8.30033878669186e-108
+"Frontal Cortex","Oligodendrocyte","Oligodendrocyte_Tfr [#9]",1.09861228866811,2.93360538613217e-138
+"Posterior Cortex","Astrocyte","Astrocyte_Gja1 [#8]",1.09861228866811,1.80165119787941e-95
+"Entopeduncular","Oligodendrocyte","Oligodendrocyte_Tfr [#1]",1.09861228866811,1.0166639501301e-76
+"Entopeduncular","Oligodendrocyte","Oligodendrocyte_Mbp [#8]",1.09861228866811,0.251503542551192
+"Globus Pallidus","Oligodendrocyte","Oligodendrocyte_Tfr [#10]",1.09861228866811,3.18841951494264e-252
+"Globus Pallidus","Astrocyte","Astrocyte_Gja1 [#5]",1.09861228866811,2.90245953348807e-62
+"Globus Pallidus","Fibroblast-Like","Fibroblast-Like_Dcn [#9]",1.09861228866811,0.000529451734125346
+"Hippocampus","Astrocyte","Astrocyte_Gja1 [#7]",1.09861228866811,0
+"Hippocampus","Oligodendrocyte","Oligodendrocyte_Tfr [#8]",1.09861228866811,5.34461466364582e-115
+"Striatum","Ependyma","Ependyma [#1]",1.09861228866811,2.56294224586472e-11
+"Striatum","Oligodendrocyte","Oligodendrocytes_Tfr [#3]",1.09861228866811,1.25885744507358e-67
+"Striatum","Fibroblast-Like","Fibroblast-Like_Dcn [#9]",1.09861228866811,0.000286117428408625
+"Substantia Nigra","Oligodendrocyte","Oligodendrocyte_Tfr [#10]",1.09861228866811,1.86835795694971e-168
+"Substantia Nigra","Astrocyte","Astrocyte_Gja1 [#7]",1.09861228866811,7.05736968097903e-05
+"Thalamus","Astrocyte","Astrocyte_Gja1 [#11]",1.09861228866811,2.86172078072862e-06
+"Thalamus","Mural","Mural_Rgs5Acta2 [#5]",1.09861228866811,5.3517746994949e-09
+"Thalamus","Fibroblast-Like","Fibroblast-Like_Dcn [#6]",1.09861228866811,0.00347509202417995
+"Thalamus","Oligodendrocyte","Oligodendrocyte_Tfr [#8]",1.09861228866811,1.40155078051077e-314
+"Cerebellum","Neuron","PurkinjeNeuron_Pcp2 [#2]",0.693147180559945,1.18792292476695e-10
+"Cerebellum","Astrocyte","BergmannGlia_Gpr37l1 [#7]",0.693147180559945,4.72755548246166e-17
+"Cerebellum","Choroid_Plexus","Choroid_Plexus_Ttr [#9]",0.693147180559945,0.0426465568287287
+"Hippocampus","Choroid_Plexus","Choroid_Plexus_Ttr [#12]",0.693147180559945,3.84913180354258e-08
+"Striatum","Neurogenesis","Neurogenesis_Sox4 [#2]",0.693147180559945,8.91329084250312e-29
+"Striatum","Astrocyte","Astrocyte_Gja1 [#4]",0.693147180559945,2.82955903487545e-77
+"Substantia Nigra","Oligodendrocyte","Oligodendrocyte_Mbp [#11]",0.693147180559945,0.00411851247836108
+"Thalamus","Oligodendrocyte","Oligodendrocyte_Mbp [#9]",0.693147180559945,0.000111405208519213
+"Substantia Nigra","Ependyma","Ependyma [#8]",0,0.282091515156483
