@@ -1,0 +1,5 @@
+pandas
+io
+plotly.express
+plotly.graph_objects
+re
