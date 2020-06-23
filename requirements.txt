@@ -1,7 +1,5 @@
 pandas
-io
-plotly.express
-plotly.graph_objects
-re
+matplotlib
 jupyter_contrib_nbextensions
 hide_code==0.5.2
+plotly.express
