@@ -3,3 +3,5 @@ io
 plotly.express
 plotly.graph_objects
 re
+jupyter_contrib_nbextensions
+hide_code==0.5.2
